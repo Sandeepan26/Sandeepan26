@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Hardware Design Verification (DDR4 Memory Subsystem), Computing(Classical and Quantum), Machine Learning)
+- 🔭 I’m currently working on Hardware Design Verification RISC-V , DDR4 Memory Subsystem), Computing (Classical and Quantum), Machine Learning
 * 🌱 I’m currently learning C++, Python, D Porgramming, CUDA, Quantum Computing Algorithms
 + 👯 I’m looking to collaborate on Hardware Design (Accelerators, Protocols), Verification(Simulation, Formal, AI-Assisted)
 + 📫 How to reach me: </br> Email: sandeepanroy22@gmail.com </br> LinkedIN: https://www.linkedin.com/in/sandeepan-roy-754713163/
