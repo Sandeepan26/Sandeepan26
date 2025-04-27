@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! Welcome to my profile!
 - 🔭 I’m currently working on Hardware Design Verification RISC-V , DDR4 Memory Subsystem), Computing (Classical and Quantum), Machine Learning
 * 🌱 I’m currently learning C++, Python, D Programming, CUDA, Quantum Computing Algorithms
 + 👯 I’m looking to collaborate on Hardware Design (Accelerators, Protocols), Verification(Simulation, Formal, AI-Assisted)
@@ -8,7 +8,7 @@
 **Sandeepan26/Sandeepan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+Hi there 👋
 ## 🔭 I’m currently working on Hardware Design Verification, Computing(Classical and Quantum), Machine Learning
 - 🌱 I’m currently learning C++, Python, D Porgramming, CUDA to reach intermediate level of skills
 - 👯 I’m looking to collaborate on Hardware Design (Accelerators, Protocols), Verification(Simulation, Formal, AI-Assisted)
